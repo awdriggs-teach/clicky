@@ -4,7 +4,7 @@
 let x, y; //variables for position
 let rectSize = 30;
 let score = 0;
-let timeLeft = 10;
+let timeLeft = 30;
 let c;
 
 function setup() {
